@@ -4,7 +4,8 @@
 Ana=8L
 Paulo=12L
 if (Ana > Paulo)
-  print("A menina é mais velha")else
+  print("A menina é mais velha")
+else
   print("O menino é mais velho")
 ```
 
