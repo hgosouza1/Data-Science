@@ -1,2 +1,2 @@
 # Data-Science
-Projeto baseado no CRM, com objetivo de apresentar os resultados do negócio.
+Projeto para apresentar todas as atividades relacionadas à Data Science.
