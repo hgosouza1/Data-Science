@@ -1,8 +1,3 @@
----
-Formação Cientista de Dados - Prof. Fernando Amaral
-Faça você mesmo
----
-
 1.Crie duas variáveis Ana e Paulo e atribua a elas valores de suas idades, sendo respectivamente 8 e 12 anos. As variáveis devem ser do tipo inteiro. Imprima no console "A menina é mais velha" ou "O menino é mais velho" como resultado de um teste lógico.
 ```{r}
 Ana=8L
