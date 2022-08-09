@@ -1,2 +1,2 @@
 # Data-Science
-Projeto para apresentar todas as atividades relacionadas ao Data Science.
+Projeto com todas as atividades relacionadas ao Data Science, com a utilização de Phyton e R.
