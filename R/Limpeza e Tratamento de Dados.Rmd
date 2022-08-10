@@ -1,10 +1,5 @@
----
-Formação Cientista de Dados
-Limpeza e Tratamento de Dados
----
-
 ```{r}
-#importa dados, string vazio como NA, string como fatores
+#importando dados, string vazio como NA, string como fatores
 dados = read.csv("Tempo.csv", sep = ";", na.strings="", stringsAsFactors=T)
 head(dados)
 summary(dados)
