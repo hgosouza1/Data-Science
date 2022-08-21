@@ -1,0 +1,74 @@
+ID,nome,responsavel,origem,temperatura,situacao,dtatendimento,dtfechamento,categoria,restauracao,higienizacao,lavagem,polimento,vitrificacao,lavagemmotor,tratamentovidros,protecaopintura,lavagemdetalhada,lavagemmoto,outros,descontos,total
+345zYB2RStaeNDSoFPrKCQ,Tintin ,Victor,Outros,Quente,FECHADO,20/07/2022 10:48:31,20/07/2022 14:46:05,Pequeno,,,50,,,50,,,,,,10,90
+kodJrgZQQbOYocrI4wEXug,Victor Luiz ,Victor,Outros,Quente,FECHADO,20/07/2022 11:09:29,29/07/2022 14:47:14,Médio,,,70,,,,,,,,,,70
+9XlS0WWDTQ6xUnyp3EcXyg,Wesley,Victor,Indicação,Quente,FECHADO,21/07/2022 12:39:29,21/07/2022 13:50:40,Médio,,,70,,,,,,,,,30,40
+a-ihIurH5Q9ipdAPzY3AeBw,Diogo ,Victor,Outros,Quente,FECHADO,21/07/2022 13:50:48,21/07/2022 17:52:51,Pequeno,,,50,,,,,,,,,10,40
+EnbNzP.8Qs-K3r-gQI3IOQ,Rubem Borges ,Victor,Outros,Quente,FECHADO,21/07/2022 13:51:48,21/07/2022 17:52:59,Médio,,,70,,,,,,,,,,70
+yUWRXO1iQaO.oiQOEyCQWw,Pedro ,Victor,Outros,Quente,FECHADO,22/07/2022 12:53:22,22/07/2022 12:54:52,Médio,,,70,,,,,,,,,,70
+dVL7x3yrQPyfcX2pyl451Q,Jao Henrique ,Victor,Outros,Quente,FECHADO,22/07/2022 12:56:12,24/07/2022 19:46:13,Médio,,,70,,,,,,,,,,70
+SBlcxQ.HQnCTuZ4oIlN7hw,Lucas Gabriel ,Gabriel,Outros,Quente,FECHADO,22/07/2022 17:39:27,22/07/2022 17:40:41,Pequeno,,,50,,,,,,,,,,50
+mhA.PnAuTvK-4b72LWlQOQ,Mateus ,Gabriel,Outros,Quente,FECHADO,23/07/2022 00:46:30,23/07/2022 13:00:04,Pequeno,,,50,,,,,,,,,,50
+yvhK3C4KRFqCCaFEII2J5A,Danielzin,Gabriel,Indicação,Quente,FECHADO,23/07/2022 12:58:04,24/07/2022 19:46:22,Pequeno,,,50,,,,,,,,,,50
+qqQeUf3ZR9S00VJGKzOxZQ,Mohamed,Gabriel,Indicação,Quente,FECHADO,23/07/2022 14:51:57,23/07/2022 14:56:11,Médio,,,70,,,,,,,,,40,30
+o-W.MIzwSVKfslf4byaTmg,Renato galdereto,Victor,Outros,Quente,FECHADO,23/07/2022 14:55:07,23/07/2022 14:56:16,Pequeno,,,50,,,,,,,,,10,40
+DyL4JWInQsSK8itZ2a5STg,Fernando ,Victor,Indicação,Quente,FECHADO,23/07/2022 15:49:21,23/07/2022 15:50:02,Pequeno,,,50,,,,,,,,,10,40
+qZeL8ZCeRqS7N2VXxHCgjA,Renato galdereto,Victor,Outros,Quente,FECHADO,23/07/2022 15:50:09,23/07/2022 15:50:41,Pequeno,,,50,,,,,,,,,10,40
+ri6-kQjPTCq0WLKrll0vaw,Isadora ,Victor,Indicação,Quente,FECHADO,25/07/2022 16:32:19,26/07/2022 20:08:29,Pequeno,,,50,,,,,,,,,,50
+TzwzU7Y-T7a-9i5s50C2fQ,Fernando,Gabriel,Indicação,Quente,FECHADO,25/07/2022 19:35:33,26/07/2022 20:08:25,Pequeno,,,50,,,,,,,,,,50
+mVtkFE8OSUyHWb.Pr8sLHQ,Rud,Gabriel,Outros,Quente,FECHADO,26/07/2022 00:04:06,26/07/2022 00:04:46,Pequeno,,,50,,,,,,,,,,50
+FQMHghtlROq-oND5q-sziQ,Patrick,Gabriel,Outros,Quente,FECHADO,26/07/2022 13:36:25,26/07/2022 13:37:38,Pequeno,,,50,,,,,,,,,,50
+Y6oLstxuTwKUWyAwH20Eiw,Guilherme ,Gabriel,Outros,Quente,FECHADO,26/07/2022 13:37:46,30/07/2022 02:16:02,Pequeno,,,50,,,,,,,,,,50
+NeHD5UFyS5-d81wOPxjG8Q,Patrick,Gabriel,Outros,Quente,FECHADO,26/07/2022 20:09:39,30/07/2022 02:15:50,Pequeno,,,,,,,,,,,,,
+uTi9-I-dSJa7XkipvzqMOQ,Lucas ,Gabriel,Outros,Quente,FECHADO,05/08/2022 11:12:50,10/08/2022 14:10:55,Pequeno,,,,300,,,,,,,,,300
+ytW0Yd35SBmI2jqY8DTzWQ,Jhonatan,Victor,Outros,Quente,FECHADO,05/08/2022 11:53:06,05/08/2022 12:00:05,Pequeno,,,50,,,,,,,,,,50
+Ikq0xwUfSU20Gmnzyc2FeA,Pedrin,Victor,Outros,Quente,FECHADO,05/08/2022 11:53:36,05/08/2022 12:00:15,Pequeno,,,50,,,,,,,,,,50
+3jh.vOWdQIGX6beyG2CkRQ,Hebert adriano,Victor,Outros,Quente,FECHADO,05/08/2022 11:54:03,05/08/2022 12:00:18,Pequeno,,,40,,,,,,,,,,40
+ZaIEroE1TbiOuTbQa8z4.Q,Chagas,Victor,Outros,Quente,FECHADO,05/08/2022 11:54:35,05/08/2022 12:00:22,Pequeno,,,50,,,,,,,,,,50
+1LKgkJJ2QsKIPdoAHXArnA,Vitor lucas,Victor,Outros,Quente,FECHADO,05/08/2022 11:55:51,05/08/2022 12:00:25,Pequeno,,,60,,,,,,,,,,60
+Qo-06ohERo2wb-YGV3tveg,Mozair,Victor,Outros,Quente,FECHADO,05/08/2022 11:56:13,05/08/2022 12:00:28,Pequeno,,,40,,,,,,,,,,40
+VOcAfrDcTJaNXnXEpPYhyw,Fernando,Victor,Outros,Quente,FECHADO,05/08/2022 11:56:56,05/08/2022 12:00:32,Pequeno,,,50,,,,,,,,,,50
+FWh87AgKTquOrmY6XuR80Q,Gilson,Victor,Outros,Quente,FECHADO,05/08/2022 11:57:14,05/08/2022 12:00:37,Pequeno,,100,,,,,,,50,,,,150
+BHAwU0f3TCK.fq4Houu0.A,samatec,Victor,Outros,Quente,FECHADO,05/08/2022 11:58:15,05/08/2022 12:00:44,Pequeno,,,40,,,,,,,,,,40
+Y2aNd5AcQXygWxBgIxdLRw,Guilherme ,Victor,Outros,Quente,FECHADO,05/08/2022 11:59:01,05/08/2022 12:00:49,Pequeno,,,50,,,,,,,,,,50
+H4dCB8b2QR6AVPc95o79rw,Sergin,Victor,Outros,Quente,FECHADO,05/08/2022 11:59:37,05/08/2022 12:00:52,Pequeno,,,50,,,,,,,,,,50
+EXKef.27QCOBGSD6DCVC.g,Rud ,Gabriel,Recorrente,Quente,FECHADO,05/08/2022 20:35:41,05/08/2022 20:36:03,Pequeno,,,50,,,,,,,,,,50
+H0tY0AxcRI2oVyuukqCtQQ,Igão ,Gabriel,Recorrente,Quente,FECHADO,05/08/2022 20:36:08,05/08/2022 20:36:26,Pequeno,,,50,,,,,,,,,,50
+V2js0N7IR7m8A11nJj68GQ,Chagas,Victor,Outros,Quente,FECHADO,06/08/2022 19:26:23,06/08/2022 19:26:41,Pequeno,,,50,,,,,,,,,,50
+RWQm3PIDT6GeTpIitQbnog,Jhonatan,Victor,Outros,Quente,FECHADO,06/08/2022 19:27:42,06/08/2022 19:28:28,Pequeno,,,50,,,,,,,,40,,90
+zOTsTPcNRCCP9uMrqAA4Ug,Marcelo ,Gabriel,Indicação,Quente,FECHADO,06/08/2022 19:28:31,06/08/2022 19:29:36,Médio,,,,,,,,,,,25,,25
+cJa-tK21QW6AROl4dXcmxQ,Paulo,Victor,Instagram,Quente,FECHADO,06/08/2022 19:29:39,06/08/2022 19:30:10,Pequeno,,,50,,,,,,,,,,50
+9.mXjBKkSSe8Mh-Nr9YLzQ,Rios ,Gabriel,Indicação,Quente,FECHADO,06/08/2022 19:30:50,08/08/2022 14:32:31,Pequeno,,,50,,,,,,,,,,50
+FhCfvf2qS46dA5DQf6I05g,Marcelo ,Gabriel,Indicação,Quente,FECHADO,07/08/2022 20:31:54,07/08/2022 20:33:11,Médio,,,,,,,,,,,30,,30
+os68SxTpQO6-RejEBaN5TA,Rogério ,Gabriel,Recorrente,Quente,FECHADO,07/08/2022 20:32:06,07/08/2022 20:33:16,Pequeno,,,50,,,,,,,,,,50
+OHrfUKZRSxiFzhBNrx9MRQ,Filipe,Gabriel,Indicação,Quente,FECHADO,08/08/2022 18:02:16,08/08/2022 18:02:48,Pequeno,,,50,,,,,,,,,,50
+bPlRqeU9TdyTwIDodwCaxA,Eduardo,Gabriel,Indicação,Quente,FECHADO,10/08/2022 14:09:53,10/08/2022 14:10:25,Pequeno,,,50,,,,,,,,,,50
+RiYurxdvRSC-vq0vKe3I2Q,Fernando,Victor,Outros,Quente,FECHADO,10/08/2022 14:10:36,10/08/2022 14:10:46,Pequeno,,,50,,,,,,,,,,50
+niC9ArAIRMmsA0K8LAylMg,Samatec,Victor,Recorrente,Quente,FECHADO,10/08/2022 20:53:23,13/08/2022 18:53:03,Pequeno,,,40,,,,,,,,,,40
+Iv0DrHeIQ8Sy037TlLUVbA,Samatec,Victor,Recorrente,Quente,FECHADO,10/08/2022 20:54:04,13/08/2022 18:53:06,Pequeno,,,40,,,,,,,,,,40
+SBiRlhqDT3iyMV1iO5xv0Q,Mozair,Victor,Recorrente,Quente,FECHADO,11/08/2022 15:09:37,12/08/2022 19:08:18,Pequeno,,,50,,,,,,,,,,50
+O0yLSuApQri2SDD0bapIxg,Amós,Gabriel,Luminoso,Morno,EM ABERTO,12/08/2022 11:35:54,,Pequeno,,,,,,,,,,,,,
+mkeYaaWpSHCzkeWyUKncZg,Mauro,Gabriel,Luminoso,Morno,EM ABERTO,12/08/2022 13:15:20,,Pequeno,,250,,250,,,,,,,,,500
+HHHNHw30TtmZaMhh4ady2w,Mozair,Victor,Recorrente,Quente,FECHADO,12/08/2022 13:37:29,12/08/2022 19:08:25,Pequeno,,,50,,,,,,,,,,50
+h7E0xJ-qTkOo-Wi6Ab0PZA,Carlos,Gabriel,Recorrente,Quente,FECHADO,12/08/2022 13:37:44,12/08/2022 18:17:37,Pequeno,,,50,,,,,,,,,,50
+UxoP2lAZTT2DGkH5Ua7pSA,Erika,Victor,Instagram,Quente,FECHADO,12/08/2022 13:37:58,12/08/2022 18:17:32,Médio,,150,,,,,,,,,,,150
+pmkOLV5DRnOITR9cR.AbPQ,Samatec,Victor,Recorrente,Quente,FECHADO,12/08/2022 13:40:38,13/08/2022 18:53:13,Pequeno,,,50,,,,,,,,,,50
+9aBUEok7Qhiizca5FnXkWw,Tiago Oliveira ,Victor,Luminoso,Morno,EM ABERTO,13/08/2022 08:29:07,,Médio,,,60,,,,,,,,,,60
+3O3s1R-MQQ6stO6SOpW8ag,Jhon ,Gabriel,Recorrente,Quente,FECHADO,13/08/2022 18:53:22,13/08/2022 18:53:42,Pequeno,,,50,,,,,,,,,,50
+dOp4cWfNQG2953lAtHv8UA,Chagas,Victor,Outros,Quente,FECHADO,13/08/2022 18:53:52,13/08/2022 18:54:01,Pequeno,,,50,,,,,,,,,,50
+zBr0Sa.MS9K6m2.rJcbBsQ,Cristiano ,Victor,Luminoso,Morno,EM ABERTO,15/08/2022 09:56:10,,Pequeno,,300,,300,,,,,,,,,600
+391aUP7BQguVvoweL-goGw,Pedro ,Victor,Outros,Quente,FECHADO,15/08/2022 19:51:03,15/08/2022 20:30:16,Médio,,,70,,,,,,,,,,20
+YVKI02wpSFqcSFtBAuntGw,Lucas Gabriel ,Gabriel,Outros,Quente,FECHADO,15/08/2022 20:30:45,15/08/2022 20:34:51,Pequeno,,,50,,,,,,,,,,50
+WqBy109WRv6xcVVOfEDpFQ,Leison Brito ,Victor,Luminoso,Morno,EM ABERTO,16/08/2022 14:28:01,,Médio,,,,,,70,,,,,,,70
+OgX7DJNgTESYaJOL9zUh6g,Mozair,Gabriel,Recorrente,Quente,FECHADO,16/08/2022 18:21:32,16/08/2022 18:22:03,Pequeno,,,50,,,,,,,,,,50
+lvpzdqvNSleNWxb4JqGeiA,Markin,Gabriel,Recorrente,Quente,FECHADO,16/08/2022 18:22:06,16/08/2022 18:22:22,Pequeno,,,50,,,,,,,,,,50
+CCIPDfLrTw-iiXTXGv-Wlg,Hudson,Victor,Recorrente,Quente,FECHADO,16/08/2022 18:22:26,16/08/2022 18:22:41,Pequeno,,,50,,,,,,,,,,50
+VpZjOEzNTTexewP8.jCAdw,Vitor lucas,Victor,Outros,Quente,EM ABERTO,17/08/2022 13:52:20,,Pequeno,,,60,,,,,,,,,,60
+y8bOZzgDTdmL3z5IpfpoUA,Wallyson ,Victor,Outros,Quente,FECHADO,18/08/2022 10:42:50,18/08/2022 10:44:01,Pequeno,,,,,,,,,,,150,,150
+A9CbxhKdS3CEKMsRxZ.Lrw,Pedro Fernanda ,Victor,Outros,Quente,FECHADO,18/08/2022 10:44:15,19/08/2022 13:46:24,Pequeno,,,50,,,,,,,,,,50
+1RBIMVaTThixtv-wX6OzZA,Sueli,Gabriel,Recorrente,Quente,FECHADO,18/08/2022 16:43:10,18/08/2022 17:00:14,Médio,,,70,,,,,,,,,,70
+v3CVr3ifQuiXLsEkQE7TCg,Marcele,Gabriel,Indicação,Quente,FECHADO,18/08/2022 17:00:34,19/08/2022 21:54:49,Pequeno,,,50,,,,,,,,,,50
+m2g.y6-0SI22VQflCBySXw,Marquinhos,Victor,Indicação,Quente,EM ABERTO,18/08/2022 17:34:44,,Pequeno,70,,,,,,,,,,,,70
+eZ8JsstsRy6cHU4hoKfg8A,Mozair,Victor,Recorrente,Quente,FECHADO,19/08/2022 13:46:39,19/08/2022 17:42:05,Pequeno,,,50,,,,,,,,,,50
+VlOnr2ziQrmS8Ipq7CwGpQ,Diogo,Gabriel,Recorrente,Quente,FECHADO,19/08/2022 13:46:53,19/08/2022 17:43:22,Pequeno,,,50,,,,,,,,,,50
+7h9qqOyFRE-nCj--NSadbQ,Galdereto ,Gabriel,Recorrente,Quente,FECHADO,19/08/2022 13:47:14,19/08/2022 17:43:49,Pequeno,,,50,,,,,,,,,,50
+wsk4rhoVQ42nXP9Xua.faQ,Galdereto ,Gabriel,Recorrente,Quente,EM ABERTO,19/08/2022 13:47:47,,Pequeno,,,50,,,,,,,,,,50
